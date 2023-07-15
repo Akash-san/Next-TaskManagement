@@ -1,0 +1,20 @@
+{
+  "task": [
+    {
+      "id": "1",
+      "text": "Add Task"
+    },
+    {
+      "id": "2",
+      "text": "Edit Task"
+    },
+    {
+      "id": "6fd69cf9-1031-400b-8cdc-8ae99742507d",
+      "text": "Update Task"
+    },
+    {
+      "id": "a1e523d1-2c8d-4411-8fb0-639973900c03",
+      "text": "Delete Task"
+    }
+  ]
+}
